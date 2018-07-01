@@ -1,0 +1,62 @@
+
+getProject().setBuildDir('gradleBuild')
+project.ext.ASSET_DIR = projectDir.toString() + '/assets'
+assert file(project.ext.ASSET_DIR + "/tiny-yolo-gun_inference.pb").exists()
+assert file(project.ext.ASSET_DIR + "/tiny-yolo-gun_labels.txt").exists()
+buildscript {
+    repositories {
+        jcenter()
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.1.1'
+    }
+}
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '27.0.3'
+
+    lintOptions {
+        abortOnError false
+    }
+
+    sourceSets {
+        main {
+            // Android demo app sources.
+            java {
+                srcDir 'src'
+            }
+
+            manifest.srcFile 'AndroidManifest.xml'
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = [project.ext.ASSET_DIR]
+
+            repositories {
+                jcenter()
+            }
+
+            dependencies {
+                compile 'org.tensorflow:tensorflow-android:1.7.0'
+            }
+
+        }
+
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+repositories {
+    google()
+}
+dependencies {
+    compile 'org.apache.commons:commons-math3:3.2'
+}

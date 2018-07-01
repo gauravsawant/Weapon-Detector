@@ -1,0 +1,4 @@
+#Mon Apr 23 13:37:20 IST 2018
+base.0=/home/sushi97/android-yolo-v2/gradleBuild/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

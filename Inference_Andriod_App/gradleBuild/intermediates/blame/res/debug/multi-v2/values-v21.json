@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/sushi97/android-yolo-v2/res/values-v21/base-template-styles.xml",
+                    "from": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "86",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "162"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "131"
+                    }
+                }
+            ]
+        }
+    ]
+}

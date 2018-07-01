@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/sushi97/android-yolo-v2/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "257"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/home/sushi97/android-yolo-v2/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "52,120",
+                        "endColumns": "67,67",
+                        "endOffsets": "115,183"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                }
+            ]
+        }
+    ]
+}
