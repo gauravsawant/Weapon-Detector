@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":-1,"enabled":true,"outputFile":"android-yolo-v2-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.tensorflow.yolo","split":"","minSdkVersion":"23"}}]

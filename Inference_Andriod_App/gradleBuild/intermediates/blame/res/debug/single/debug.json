@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/layout_camera_connection_fragment.xml.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/layout_activity_camera.xml.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/sushi97/android-yolo-v2/gradleBuild/intermediates/res/merged/debug/drawable-hdpi_tile.9.png.flat",
+        "source": "/home/sushi97/android-yolo-v2/res/drawable-hdpi/tile.9.png"
+    }
+]
