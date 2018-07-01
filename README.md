@@ -5,6 +5,7 @@ Transforming public safety using automated weapon detection by criminals at publ
 - [Sushrut Shimpi](https://github.com/sushi97)
 - [Shivaji Sawant](https://github.com/sawantshivaji1997)
 - [Gaurav Sawant](https://github.com/gauravsawant)
+- [Dipak Wani](https://github.com/wandip)
 
 ## The Steps Invloved:
 
